@@ -1,0 +1,9 @@
+stages:
+  prepare:
+    cmd: python -m src.data --force
+    deps:
+      - src/data.py
+      - src/config.py
+    outs:
+      - data/train.csv
+      - data/test.csv

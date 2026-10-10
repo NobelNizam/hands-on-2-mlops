@@ -1,0 +1,6 @@
+mlflow>=3,<4
+scikit-learn>=1.6,<2
+pandas>=2,<4
+matplotlib>=3.8,<4
+dvc>=3,<4
+requests>=2,<3

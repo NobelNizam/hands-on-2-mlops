@@ -1,0 +1,10 @@
+.venv/
+.matplotlib/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+docs/
+mlflow.db
+mlartifacts/
+mlruns/
+selected_run.json
