@@ -8,3 +8,9 @@ mlflow.db
 mlartifacts/
 mlruns/
 selected_run.json
+report/*.aux
+report/*.fdb_latexmk
+report/*.fls
+report/*.log
+report/*.out
+report/*.toc
